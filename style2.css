@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxI_fziXXXSkJey6L7SZl8lSaWIPGNzB4Acg&usqp=CAU");
+    color: whitesmoke;
+    font-size: large;
+    font-weight: 1000;
+}
+h1{
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+button{
+    background-color: greenyellow;
+    border-color: rgb(150, 248, 115);
+    border-radius: 10px;
+    color: rgba(43, 163, 237, 0.989);
+}
